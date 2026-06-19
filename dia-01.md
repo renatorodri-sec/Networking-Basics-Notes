@@ -17,7 +17,3 @@ WAN (Wide Area Network) conecta redes em grandes distâncias, como a Internet.
 - O que é uma rede
 - Diferença entre LAN e WAN
 - Como dispositivos se comunicam
-
-## Próximo passo
-
-Aprender sobre IP e DNS.
